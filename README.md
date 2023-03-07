@@ -19,7 +19,7 @@ Homepage
 
 Contact Us
 
-the home page is named index, which is has hyperlink for contact us and login page.
+the home page is named index, which has hyperlink for contact us and login page.
 
 
 initially it was like this-
