@@ -23,14 +23,15 @@ the home page is named index, which has hyperlink for contact us and login page.
 
 
 initially it was like this-
+
   ![Screenshot 2023-03-07 190648](https://user-images.githubusercontent.com/54398366/223468082-6ead97e8-9cca-4767-8408-f0a2e4539520.png)
   
-  after using css home page was was- 
+  after using css home page was visually improved- 
   
   
 ![Screenshot 2023-03-07 205907](https://user-images.githubusercontent.com/54398366/223469537-77cfd746-1442-4464-935b-a70ea52c633f.png)
 
-login page 
+login page -
 
 ![image](https://user-images.githubusercontent.com/54398366/223470018-f0dec4cd-49f7-4016-bea0-a65677d1d5a7.png)
 
